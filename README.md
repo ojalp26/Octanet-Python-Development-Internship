@@ -1,8 +1,13 @@
 # 🏧 ATM Machine Simulation  
 
+
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)  
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)  
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge)  
+![Contributions](https://media.licdn.com/dms/image/v2/D560BAQHWDYEWXkPfTg/company-logo_100_100/company-logo_100_100/0/1719047606096/octanetsolutions_logo?e=1748476800&v=beta&t=cN7wmreW6H3DOqnGzn1oKhugcT1fiD4YfUIY1HmuRCk) 
+
+
+---
 
 ## 📌 Project Overview  
 This **ATM Machine Simulation** is built in **Python** as part of the **Python Developer Internship** at **OctaNet Services Pvt Ltd**. It provides users with an **interactive and secure** experience to perform various banking functions, such as:  
