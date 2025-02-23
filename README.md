@@ -49,9 +49,7 @@ This project implements **modern UI enhancements** using:
 📂 ATM-Simulation  
 
     │── 📜 atm_simulation.py 
-    
     │── 🎥 ATM Machine Output.mp4
-    
     │── 📜 README.md           
 
 
@@ -61,13 +59,9 @@ This project implements **modern UI enhancements** using:
 ## 📈 Code Improvements
 
   ✅ Enhanced User Interface – Added color-coded output for clarity.
-  
   ✅ Formatted Tables – Used tabulate for structured display.
-  
   ✅ Transaction History – Users can track deposits and withdrawals
-  
   ✅ Improved Error Handling – Clear messages for invalid inputs and PIN mismatches.
-  
   ✅ Modular Code Structure – Functions are well-organized for readability and maintenance.
 
 ---
