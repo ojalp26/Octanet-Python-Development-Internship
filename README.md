@@ -48,7 +48,7 @@ This project implements **modern UI enhancements** using:
 
 📂 ATM-Simulation  
 
-    │── 📜 atm_simulation.py 
+    │── 📜 Source Code
     │── 🎥 ATM Machine Output.mp4
     │── 📜 README.md           
 
