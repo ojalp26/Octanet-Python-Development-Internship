@@ -1,10 +1,9 @@
-# 🏧 ATM Machine Simulation  
+# 🏧 ATM Machine Simulation - Python Developer Internship
 
 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)  
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)  
-![Contributions](https://media.licdn.com/dms/image/v2/D560BAQHWDYEWXkPfTg/company-logo_100_100/company-logo_100_100/0/1719047606096/octanetsolutions_logo?e=1748476800&v=beta&t=cN7wmreW6H3DOqnGzn1oKhugcT1fiD4YfUIY1HmuRCk) 
 
 
 ---
