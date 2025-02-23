@@ -27,7 +27,7 @@ This project implements **modern UI enhancements** using:
 ---
 
 ## ✨ Features  
-✔️ **Account Balance Inquiry** – Check available balance in a structured table format.  
+✔️ **Account Balance Inquiry** – Check the available balance in a structured table format.  
 ✔️ **Cash Withdrawal** – Withdraw money with validation for insufficient balance.  
 ✔️ **Cash Deposit** – Deposit money securely into the account.  
 ✔️ **PIN Change** – Update the ATM PIN with validation.  
@@ -79,9 +79,7 @@ This project helped me improve my coding skills and provided valuable industry-l
 
 ## 🏆 Offer Letter
 
-📄 Click here to view my Offer Letter from Octanet
-
-   [🔗 view](https://www.linkedin.com/posts/ojal-paturday-7246ab321_pythondeveloper-internshipopportunity-octanet-activity-7292122900059287553-TxU3utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)
+📄 Click here to view my Offer Letter from Octanet : [🔗 view](https://www.linkedin.com/posts/ojal-paturday-7246ab321_pythondeveloper-internshipopportunity-octanet-activity-7292122900059287553-TxU3utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)
 
 ---
 
