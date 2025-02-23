@@ -81,7 +81,7 @@ This project helped me improve my coding skills and provided valuable industry-l
 
 📄 Click here to view my Offer Letter from Octanet
 
-    [view](https://www.linkedin.com/posts/ojal-paturday-7246ab321_pythondeveloper-internshipopportunity-octanet-activity-7292122900059287553-TxU3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)
+   [🔗 view](https://www.linkedin.com/posts/ojal-paturday-7246ab321_pythondeveloper-internshipopportunity-octanet-activity-7292122900059287553-TxU3utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)
 
 ---
 
