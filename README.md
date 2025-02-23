@@ -57,29 +57,19 @@ This project implements **modern UI enhancements** using:
 ---
 
 ## 📈 Code Improvements  
-
 ✅ **Enhanced User Interface** – Added color-coded output for clarity.  
-
 ✅ **Formatted Tables** – Used tabulate for structured display.  
-
 ✅ **Transaction History** – Users can track deposits and withdrawals.  
-
 ✅ **Improved Error Handling** – Clear messages for invalid inputs and PIN mismatches.  
-
 ✅ **Modular Code Structure** – Functions are well-organized for readability and maintenance.  
 
 ---
 
 ## 🎓 What I Learned  
-
 During this **Octanet Python Developer Internship**, I gained hands-on experience in:  
-
 ✅ **Python programming** – Writing modular, efficient, and structured code.  
-
 ✅ **UI enhancements** – Implementing `colorama` and `tabulate` for better user interaction.  
-
 ✅ **Error handling** – Ensuring a smooth user experience by handling edge cases effectively.  
-
 ✅ **Problem-solving** – Developing a functional and interactive ATM simulation from scratch.  
 
 This project helped me **improve my coding skills** and provided **valuable industry-level exposure**.  
