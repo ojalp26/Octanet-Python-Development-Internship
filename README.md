@@ -22,7 +22,7 @@ This project implements **modern UI enhancements** using:
 - ✅ **Colorama** for **color-coded text output** to improve readability.  
 - ✅ **Tabulate** for **table formatting** to display information neatly.  
 
-🎥 **Watch the Code in Action:** [🔗 LinkedIn Post](your-linkedin-demo-link-here)  
+🎥 **Watch the Code in Action:** [🔗 LinkedIn Post](https://www.linkedin.com/posts/ojal-paturday-7246ab321_python-atmproject-octanet-activity-7299511644836040706-sEdT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFwUEwBvXKwUsagnGYv5VK5aJFcIdB4b5s)
 
 ---
 
@@ -43,12 +43,15 @@ This project implements **modern UI enhancements** using:
 
 ---
 
-## 🛠 Code Structure
+## 🛠 Repository Structure
 
 '''
+
 📂 ATM-Simulation  
-│── 📜 atm_simulation.py   # Main Python script containing the ATM functionalities  
-│── 📜 README.md           # Project documentation  
+│── 📜 atm_simulation.py 
+│── 🎥 ATM Machine Output.mp4
+│── 📜 README.md           
+
 '''
 
 ---
